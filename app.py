@@ -140,8 +140,8 @@ if user_menu == 'Athlete-wise Analysis':
     x4 = athlete_df[athlete_df['Medal'] == 'Bronze']['Age'].dropna()
 
     fig = ff.create_distplot([x1, x2, x3, x4], ['Overall Age', 'Gold Medalist', 'Silver Medalist', 'Bronze Medalist'],show_hist=False, show_rug=False)
-    fig.update_layout(autosize=False,width=1000,height=600)
-    st.title("Distribution of Age")
+    fig.update_layout(autosize=False, width=1000, height=600, xaxis_title="Age", yaxis_title="Winning Chance",)
+    st.title("Distribution of Age for winning medals")
     st.plotly_chart(fig)
 
     x = []
