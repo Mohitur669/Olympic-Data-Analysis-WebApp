@@ -1,0 +1,5 @@
+*.gitignore
+venv
+.ipynb_checkpoints
+.idea
+Olympics Data Analysis.ipynb
