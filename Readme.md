@@ -70,10 +70,10 @@ This section provides the athlete-wise analysis of the Olympics.
 3. Run the command `streamlit run app.py` in the terminal
 4. The web app will open in the browser
 
-## About me
+# 6. About me
 I am Mohd Mohitur Rahaman, and currently, I am pursuing MCA from KIIT University, Bhubaneswar. Talking about my previous educational background, I did my BSC in Mathematics at Malda College.
 
 - [Mohitur](https://linktr.ee/mohitur)
 
-## Feedback
+# 7. Feedback
 If you have any feedback, you can make the changes and create a pull request or, please reach out to me at [here](mohitur669@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohitur02).
