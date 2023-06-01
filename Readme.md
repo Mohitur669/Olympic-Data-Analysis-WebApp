@@ -65,9 +65,9 @@ This section provides the athlete-wise analysis of the Olympics.
 4. Men Vs Women Participation Over the Years (Line Graph)
 
 # How to run the project locally
-1. Clone the repository
+1. Clone the repository using `git clone https://github.com/Mohitur669/Olympic-Data-Analysis-WebApp.git` in the terminal
 2. Install the required libraries (mentioned in requirements.txt)
-3. Run the command `streamlit run app.py` in the terminal
+3. Run the command `streamlit run app.py` to run the app locally
 4. The web app will open in the browser
 
 # About me
