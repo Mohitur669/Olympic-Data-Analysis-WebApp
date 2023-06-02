@@ -14,7 +14,7 @@ region_df = pd.read_csv('data/noc_regions.csv')
 
 df = preprocessor.preprocess(df, region_df)
 
-st.sidebar.title('Olympics Analysis')
+st.sidebar.title('Olympics Data Analysis')
 st.sidebar.image('olympics.png')
 
 user_menu = st.sidebar.radio(
