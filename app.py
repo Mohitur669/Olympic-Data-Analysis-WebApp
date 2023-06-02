@@ -7,7 +7,7 @@ import seaborn as sns
 import plotly.figure_factory as ff
 
 # for opening the web app in wide mode by default
-st.set_page_config(page_title='Olympic Data Analytics', page_icon='favicon.png', layout = 'wide', initial_sidebar_state = 'auto')
+st.set_page_config(page_title='Olympic Data Analytics', page_icon='img/favicon.png', layout = 'wide', initial_sidebar_state = 'auto')
 
 df = pd.read_csv('data/athlete_events.csv')
 region_df = pd.read_csv('data/noc_regions.csv')
@@ -15,7 +15,7 @@ region_df = pd.read_csv('data/noc_regions.csv')
 df = preprocessor.preprocess(df, region_df)
 
 st.sidebar.title('Olympics Data Analysis')
-st.sidebar.image('olympics.png')
+st.sidebar.image('img/olympics.png')
 
 user_menu = st.sidebar.radio(
     'Select an Option',
