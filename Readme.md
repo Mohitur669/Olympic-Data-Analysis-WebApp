@@ -1,9 +1,9 @@
-# Exploratory Data Analysis: 120 Years of Olympics History including Python [Web App](https://mohitur669-olympic-data-analysis-webapp-app-ahoyjx.streamlit.app/)
+# Exploratory Data Analysis: 120 Years of Olympics History including Python <a href="https://mohitur669-olympic-data-analysis-webapp-app-ahoyjx.streamlit.app/" target="_blank">Web App</a>
 # Introduction
 This is a Exploratory Data Analysis project to analyze the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. This analysis provides an opportunity to ask questions about how the Olympics have evolved over time, including questions about the participation and performance of women, different nations, and different sports and events.
 
 # Data Source
-The dataset is collected from [**here**](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results). The dataset contains two files: athlete_events.csv and noc_regions.csv. <br>
+The dataset is collected from <a href="https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results" target="_blank"><strong>here</strong></a>. The dataset contains two files: athlete_events.csv and noc_regions.csv. <br>
 The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
 
 1. ID - Unique number for each athlete
@@ -29,7 +29,7 @@ The file noc_regions.csv contains 230 rows and 3 columns. Each row corresponds t
 3. notes
 
 # Python Web App
-This project is deployed on Streamlit Community Cloud. You can access the web app [**here**](https://mohitur669-olympic-data-analysis-webapp-app-ahoyjx.streamlit.app/). <br> **Note:** All the graphs and charts are interactive. You can hover over the graphs and charts to get more information. You can also download the graphs and charts in png format.
+This project is deployed on Streamlit Community Cloud. You can access the web app <a href="https://mohitur669-olympic-data-analysis-webapp-app-ahoyjx.streamlit.app/" target="_blank"><strong>here</strong></a>. <br> **Note:** All the graphs and charts are interactive. You can hover over the graphs and charts to get more information. You can also download the graphs and charts in png format.
 
 # Features of the Web App
 The web app provides a brief overview of the dataset. It provide users to choose between 4 options to explore the dataset. The options are:
