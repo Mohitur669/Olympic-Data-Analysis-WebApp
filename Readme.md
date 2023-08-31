@@ -76,4 +76,4 @@ I am Mohd Mohitur Rahaman, and currently, I am pursuing MCA from KIIT University
 - [Mohd Mohitur Rahaman](https://linktr.ee/mohitur)
 
 # Feedback
-If you have any feedback, you can make the changes and create a pull request or, please reach out to me at [here](mohitur669@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohitur02).
+If you have any feedback, you can make the changes and create a pull request or, please reach out to me at [here](mailto:mohitur669@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohitur02).
